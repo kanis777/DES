@@ -26,8 +26,4 @@ Execute the compiled executable, providing necessary input parameters such as pl
 Monitor the output for the ciphertext generated and the corresponding execution time.
 Optionally, verify the correctness of encryption and decryption by comparing the original plaintext with the decrypted text.
 
-## Contributing:
-Contributions to this project are welcome. You can contribute by:
-Reporting bugs and issues.
-Suggesting enhancements and optimizations.
-Providing feedback and suggestions for improvement.
+
